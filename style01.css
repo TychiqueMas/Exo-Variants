@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+body {
+    background-color: rgb(218, 207, 207);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    margin: 100px;
+
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2,
+h3 {
+    font-size: 25px;
+
+}
+
+span {
+    background-color: brown;
+    color: white;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+nav p {
+    text-align: center;
+    color: rgb(73, 70, 70);
+    margin: 25px auto;
+    max-width: 720px;
+}
+
+main {
+    background-color: rgb(12, 1, 1);
+    color: rgb(250, 247, 247);
+    padding: 5px 30px;
+    border-radius: 10px;
+    margin: 10px auto;
+    margin-bottom: 25px;
+    max-width: 1000px;
+}
+
+h3 {
+    background-color: brown;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: green;
+    border-radius: 10px;
+    width: 80px;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+button:hover {
+    background-color: blueviolet;
+}
+
+.space {
+    display: inline-block;
+}
+
+
+.btn2 {
+    background-color: red;
+}
+
+section {
+    background-color: brown;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 10px auto;
+    max-width: 1000px;
+}
